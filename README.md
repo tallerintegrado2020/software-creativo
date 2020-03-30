@@ -18,8 +18,8 @@
 ## Consideraciones
 - Las imagenes deben ser subidas en .png, 96dpi máximo, 920x300 px.
 - Cada alumno debe subir al menos 4 software con imagen referencial.
-- Se podrán subir además link de ejemplos de uso para cada caso. 
-- El taller debe proponer categorías para organizar el listado de software.
+- Se debe subir al menos 3 link de ejemplos de uso para cada caso. 
+- El taller debe proponer categorías para organizar el listado de software e implementarlo.
 
 
 <!---
