@@ -5,9 +5,9 @@
 
 - [Antimony](https://www.mattkeeter.com/projects/antimony/3/) - Software CAD 3D de modelado modular.
 # [<img src="img/antimony.png"/>](https://github.com/tallerintegrado2020/software-creativo)
->*[Ejemplo de uso 1](http://archive.fabacademy.org/archives/2016/fablabsantiago/students/391/class2.html) - Ejemplos de producción gráfica.*  
->*[Ejemplo de uso 2](http://archive.fabacademy.org/archives/2016/fablabsantiago/students/391/class2.html) - Ejemplos de producción gráfica.*  
->*[Ejemplo de uso 3](http://archive.fabacademy.org/archives/2016/fablabsantiago/students/391/class2.html) - Ejemplos de producción gráfica.*  
+>*[Ejemplo de uso 1](http://archive.fabacademy.org/archives/2016/fablabsantiago/students/391/class2.html) - Ejemplos de Modelado 3D.*  
+>*[Ejemplo de uso 2](http://fabacademy.org/archives/2015/as/students/ashman.bry/week2/software_evaluation/) - Ejemplos de producción fractal.*  
+>*[Ejemplo de uso 3](http://fabacademy.org/archives/2015/as/students/lee.sungeun/class05.html) - Ejemplos modelado paramétrico e impresión 3D.*  
 
 
 ## Link de otros repos
