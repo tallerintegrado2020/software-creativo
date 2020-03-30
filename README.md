@@ -1,4 +1,4 @@
-# [<img src="img/header.png" alt="header" width="920"/>](https://github.com/tallerintegrado2020/software-creativo)
+# [<img src="img/header_.png" alt="header" width="920"/>](https://github.com/tallerintegrado2020/software-creativo)
 
 # software-creativo
 
