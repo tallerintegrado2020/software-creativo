@@ -13,7 +13,7 @@
 ## Link de otros repos
 
 - [Awesome creative coding](https://github.com/terkelg/awesome-creative-coding) - Indice de software creativos
-- [Fabacademy](https://github.com/terkelg/awesome-creative-coding) - Listado de software por categorías del Fabacademy 2019
+- [Fabacademy](http://academy.cba.mit.edu/classes/computer_design/index.html) - Listado de software por categorías del Fabacademy 2019
 
 ## Consideraciones
 - las imagenes deben ser subidas en .png, 96dpi máximo, 920x300 px.
